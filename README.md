@@ -3,6 +3,14 @@ ticktick
 
 Ticktick is an id generator for message service. It's now can run as an independent alone service or an embeded one.
 
+
+
+chongtuceshi
+git chongtuceshi
+
+
+
+
 ## Introduction
 Ticktick's id generation rules is like Snowflake of twitter, but with more considerations, 
 checkout document DESIGN.md for more details.
